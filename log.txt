@@ -1,0 +1,23 @@
+commit 9ea6a5aeea17562dad87d4944beb155b1af7aef9
+Author: Bazor <snirzelig@gmail.com>
+Date:   Sun Feb 18 21:46:02 2018 +0200
+
+    edited GitIgnore
+
+commit 7084ace8bce7deacfe9a3b219800a7d3ce09ec1f
+Author: Bazor <snirzelig@gmail.com>
+Date:   Sun Feb 18 21:44:19 2018 +0200
+
+    added gitignore
+
+commit 6f4d9657d8c33440107731cb0d023cb353dd89c5
+Author: Bazor <snirzelig@gmail.com>
+Date:   Sat Feb 17 22:42:53 2018 +0200
+
+    added two files
+
+commit e898a250a4328870af89d929439032fe6909685e
+Author: Bazor <snirzelig@gmail.com>
+Date:   Sat Feb 17 22:35:08 2018 +0200
+
+    added readme.txt
